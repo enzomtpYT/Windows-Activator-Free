@@ -112,7 +112,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99
 echo Windows version Home activated with key "TX9XD-98N7V-6WMQ6-BX7FG-H8Q99"
@@ -124,7 +124,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 3KHY7-WNT83-DGQKR-F7HPR-844BM
 echo Windows version Home N activated with key "3KHY7-WNT83-DGQKR-F7HPR-844BM"
@@ -136,7 +136,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH
 echo Windows version Home Single Language activated with key "7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
@@ -148,7 +148,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk PVMJN-6DFY6-9CCP6-7BKTT-D3WVR
 echo Windows version Home Country Specific activated with key "PVMJN-6DFY6-9CCP6-7BKTT-D3WVR"
@@ -189,7 +189,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
 echo Windows version Professional activated with key "W269N-WFGWX-YVC9B-4J6C9-T83GX"
@@ -201,7 +201,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
 echo Windows version Professional N activated with key "MH37W-N47XK-V7XM9-C7227-GCQG9"
@@ -213,7 +213,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
 echo Windows version Professional Workstations activated with key "NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J"
@@ -225,7 +225,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
 echo Windows version Professional Workstations N activated with key "9FNHH-K3HBT-3W4TD-6383H-6XYWF"
@@ -235,7 +235,7 @@ goto end
 
 echo Please wait until it finishes
 slmgr /ipk 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 6TP4R-GNPTD-KYYHQ-7B7DP-J447Y
 echo Windows version Professional Education activated with key "6TP4R-GNPTD-KYYHQ-7B7DP-J447Y"
@@ -264,7 +264,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2
 echo Windows version Education activated with key "NW6C2-QMPVW-D7KKK-3GKT6-VCFB2"
@@ -276,7 +276,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 2WH4N-8QGBV-H22JP-CT43Q-MDWWJ
 echo Windows version Education N activated with key "2WH4N-8QGBV-H22JP-CT43Q-MDWWJ"
@@ -342,7 +342,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43
 echo Windows version Enterprise activated with key "NPPR9-FWDCX-D2C8J-H872K-2YT43"
@@ -354,7 +354,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 echo Windows version Enterprise N activated with key "DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4"
@@ -366,7 +366,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk YYVX9-NTFWV-6MDM3-9PT4T-4M68B
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk YYVX9-NTFWV-6MDM3-9PT4T-4M68B
 echo Windows version Enterprise G activated with key "YYVX9-NTFWV-6MDM3-9PT4T-4M68B"
@@ -378,7 +378,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 44RPN-FTY23-9VTTB-MP9BX-T84FV
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 44RPN-FTY23-9VTTB-MP9BX-T84FV
 echo Windows version Enterprise G N activated with key "44RPN-FTY23-9VTTB-MP9BX-T84FV"
@@ -390,7 +390,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk M7XTQ-FN8P6-TTKYV-9D4CC-J462D
 echo Windows version Enterprise LTSC 2019 activated with key "M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
@@ -402,7 +402,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 92NFX-8DJQP-P6BBQ-THF9C-7CG2H
 echo Windows version Enterprise N LTSC 2019 activated with key "92NFX-8DJQP-P6BBQ-THF9C-7CG2H"
@@ -414,7 +414,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ
 echo Windows version Enterprise LTSB 2016 activated with key "DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ"
@@ -426,7 +426,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk QFFDN-GRT3P-VKWWX-X7T3R-8B639
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk QFFDN-GRT3P-VKWWX-X7T3R-8B639
 echo Windows version Enterprise N LTSB 2016 activated with key "QFFDN-GRT3P-VKWWX-X7T3R-8B639"
@@ -459,7 +459,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk 33QT6-RCNYF-DXB4F-DGP7B-7MHX9
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk 33QT6-RCNYF-DXB4F-DGP7B-7MHX9
 echo Windows version Windows 10 Core activated with key "33QT6-RCNYF-DXB4F-DGP7B-7MHX9"
@@ -471,7 +471,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk NBTWJ-3DR69-3C4V8-C26MC-GQ9M6
 echo Windows version Windows 10 S (Lean) activated with key "NBTWJ-3DR69-3C4V8-C26MC-GQ9M6"
@@ -483,7 +483,7 @@ cls
 
 echo Please wait until it finishes
 slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
-slmgr /skms kms8.msguides.com
+slmgr /skms s8.uk.to
 slmgr /ato
 slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T
 echo Windows version Windows 10 Pro build 10240 activated with key "VK7JG-NPHTM-C97JM-9MPGT-3V66T"
